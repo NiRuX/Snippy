@@ -3,7 +3,7 @@ Snippy is a multi-purpose screenshot utility for Android, Windows and Linux for 
 ##
 
 <p align="center">
-     <img src="app/src/main/ic_launcher-web.png" alt="Snippy" width="20%">
+     <img src="https://github.com/NiRuX/Snippy/blob/main/Snippy%20Classic/app/src/main/ic_launcher-web.png?raw=true" alt="Snippy" width="20%">
 </p>
 
 <div align="center"></div>
