@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Screenshot Assistant</string>
+    <string name="copyright" translatable="false">© beatbrot 2019</string>
+    <string name="about">About</string>
+    <string name="github" translatable="false">GitHub</string>
+    <string name="apache_2" translatable="false">Apache 2.0</string>
+    <string name="license">License</string>
+    <string name="version">Version</string>
+    <string name="more">More</string>
+    <string name="error_no_screenshot">Error: Screenshot could not be captured</string>
+    <string name="enable_screenshot">Screenshot could not be taken. Please enable \"Use screenshot\" in assist settings</string>
+    <string name="share_image">Share screenshot…</string>
+    <string name="title_sheet_settings">Settings</string>
+    <string name="undo">Undo</string>
+    <string name="redo">Redo</string>
+    <string name="done">Done</string>
+    <string name="image_quality">Image Quality</string>
+    <string name="image_format">Image Format</string>
+
+</resources>

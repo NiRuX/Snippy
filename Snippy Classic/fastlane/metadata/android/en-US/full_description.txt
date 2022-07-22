@@ -1,0 +1,14 @@
+Screenshot assistant is a replacement for Google Assistant with the sole purpose of taking, cropping and sharing a screenshot.
+
+👉 Setup instructions:
+
+1. Install the app
+2. Set it as assistant via Apps > Default Apps > Assist app
+3. Trigger Google Assistant
+
+🚀 Features:
+
+- Screenshot with adjustable quality and image format
+- Tight system integration via Assist API
+- No permission needed
+- No storage used up by old screenshots
