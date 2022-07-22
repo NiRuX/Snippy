@@ -13,18 +13,12 @@ Snippy is a multi-purpose screenshot utility for Android, Windows and Linux for 
 
 1. Install the app
 2. Set it as assistant via `Apps` > `Default Apps` > `Assist app`
-3. Trigger assistant, crop and share
+3. Launch the App and sign in with your personal Tag and Tag Code
+4. Trigger assistant, crop and share
 
     
 ## Pros
+None, being rebuilt in Flutter.
 
-- Screenshot in 100% JPEG-Quality
-- Tight system integration via Assist API
-- No permission needed
-
-    
-## CC
-    
-- Original [Screenshot Assistant](https://play.google.com/store/apps/details?id=pl.waskysoft.screenshotassistant) - *Unfortunately not open source*
-- [Android Image Cropper](https://github.com/ArthurHub/Android-Image-Cropper)
-- [Material About Library](https://github.com/daniel-stoneuk/material-about-library)
+## Cons
+Everything until work gets done <3
